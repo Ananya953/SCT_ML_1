@@ -84,6 +84,6 @@ Model evaluation using metrics like R2 Score and MSE
 
 ## Github Repository
 
-(https://github.com/Ananya953/SCT_ML.git)
+(https://github.com/Ananya953/SCT_ML_1.git)
 
 ---
