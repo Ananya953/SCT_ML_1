@@ -87,3 +87,8 @@ Model evaluation using metrics like R2 Score and MSE
 (https://github.com/Ananya953/SCT_ML_1.git)
 
 ---
+
+**Ananya T C**
+4th Year(Akshaya Institution of Technology)
+ananyagowda2710@gmail.com
+Intern at Skill Technology
