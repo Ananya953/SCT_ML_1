@@ -91,4 +91,4 @@ Model evaluation using metrics like R2 Score and MSE
 **Ananya T C**
 4th Year(Akshaya Institution of Technology)
 ananyagowda2710@gmail.com
-Intern at Skill Technology
+Intern at SkillCraft Technology
